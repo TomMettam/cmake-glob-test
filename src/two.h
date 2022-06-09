@@ -1,6 +1,6 @@
 #pragma once
 
-class one
+class two
 {
 	public:
 		void print();
